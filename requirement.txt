@@ -1,0 +1,10 @@
+# requirements.txt
+
+pandas
+numpy
+matplotlib
+xgboost
+scikit-learn
+tabulate
+openpyxl
+seaborn
